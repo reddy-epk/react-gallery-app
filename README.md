@@ -27,17 +27,6 @@ Building a React **Gallery App**
 - Start up the app using `npm start`
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/components/Gallery/index.js`
-- `src/components/Gallery/index.css`
-- `src/components/ThumbnailItem/index.js`
-- `src/components/ThumbnailItem/index.css`
-</details>
 
 ### Quick Tips
 
@@ -45,7 +34,7 @@ Use these files to complete the implementation:
 <summary>Click to view</summary>
 <br>
 
-- You can use the CSS `opacity` property to set the degree to which content behind an element is hidden. It accepts a value in the range of 0.0 to 1.0 inclusive
+- Use the CSS `opacity` property to set the degree to which content behind an element is hidden. It accepts a value in the range of 0.0 to 1.0 inclusive
 
   ```
   opacity: 0.5;
